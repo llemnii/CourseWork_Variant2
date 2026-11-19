@@ -1,0 +1,4 @@
+**/bin/
+**/obj/
+.vs/
+ConsoleApp/bin/Debug/net10.0/data/
